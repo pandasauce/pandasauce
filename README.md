@@ -1,6 +1,6 @@
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to my GitHub profile.
 
-I'm Georgi (Russian: Георгий). Although I do various software security things for work, I particularly enjoy reverse engineering and breaking embedded systems.
+Although I do various software security things for work, I particularly enjoy reverse engineering and breaking embedded systems.
 
 * 🖋 I occasionally document the things I dig into in my free time at [pandasauce.org](https://pandasauce.org/)
 * 📮 You can reach me on Telegram [@pandasauce](https://telegram.me/pandasauce)
